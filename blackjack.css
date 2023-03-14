@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(10, 139, 5);
+  /* padding-left: 360px; */
+  padding-top: 80px;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+#message-el {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+
+#card-el,
+#sum-el {
+  font-size: 18px;
+  text-align: center;
+}
+
+button {
+  background-color: rgb(255, 187, 0);
+  border-color: rgb(255, 187, 0);
+  height: 30px;
+  width: 120px;
+  font-weight: 400;
+  border: 0px;
+  cursor: pointer;
+}
+
+.button-padding {
+  padding-left: 550px;
+}
